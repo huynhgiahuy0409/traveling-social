@@ -1,10 +1,7 @@
 package com.tv.tvapi.helper;
 
-import com.tc.tvapi.model.*;
 import com.tv.tvapi.model.*;
 import com.tv.tvapi.request.BaseParamRequest;
-import com.tc.tvapi.response.*;
-import com.tc.tvapi.service.*;
 import com.tv.tvapi.request.AttachmentRequest;
 import com.tv.tvapi.request.CreatePostRequest;
 import com.tv.tvapi.request.ContentUploadRequest;

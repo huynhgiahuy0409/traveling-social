@@ -1,7 +1,5 @@
 package com.tv.tvapi.controller;
 
-import com.tc.tvapi.helper.*;
-import com.tc.tvapi.request.*;
 import com.tv.tvapi.helper.*;
 import com.tv.tvapi.request.*;
 import lombok.RequiredArgsConstructor;
